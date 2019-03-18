@@ -1,0 +1,11 @@
+C:\Users\benjamin_fitzpatrick\source\repos\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp2.1\BridgeDesignPattern.deps.json
+C:\Users\benjamin_fitzpatrick\source\repos\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp2.1\BridgeDesignPattern.runtimeconfig.json
+C:\Users\benjamin_fitzpatrick\source\repos\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp2.1\BridgeDesignPattern.runtimeconfig.dev.json
+C:\Users\benjamin_fitzpatrick\source\repos\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp2.1\BridgeDesignPattern.dll
+C:\Users\benjamin_fitzpatrick\source\repos\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp2.1\BridgeDesignPattern.pdb
+C:\Users\benjamin_fitzpatrick\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp2.1\BridgeDesignPattern.csprojAssemblyReference.cache
+C:\Users\benjamin_fitzpatrick\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp2.1\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp2.1\BridgeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp2.1\BridgeDesignPattern.AssemblyInfo.cs
+C:\Users\benjamin_fitzpatrick\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp2.1\BridgeDesignPattern.dll
+C:\Users\benjamin_fitzpatrick\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp2.1\BridgeDesignPattern.pdb
